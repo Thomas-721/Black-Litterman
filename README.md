@@ -253,60 +253,54 @@ results[date] = res.x
 
 ## In-sample Results
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="assets/insample_momentum.png" alt="In-Sample: Momentum" width="550"/><br>
-      <em>Momentum</em>
-    </td>
-    <td align="center">
-      <img src="assets/insample_reversal.png" alt="In-Sample: Short-term Reversal" width="550"/><br>
-      <em>Short-term Reversal</em>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="assets/insample_shortinterest.png" alt="In-Sample: Short Interest" width="550"/><br>
-      <em>Short Interest</em>
-    </td>
-    <td align="center">
-      <img src="assets/insample_timeseries.png" alt="In-Sample: ARIMA-GARCH" width="550"/><br>
-      <em>ARIMA-GARCH</em>
-    </td>
-  </tr>
-</table>
-
 <p align="center">
   <img src="assets/insample_blacklitterman.png" alt="In-Sample: Black-Litterman model" width="650"/><br>
   <em>Black-Litterman model</em>
 </p>
 
-## Out-sample Results
+<p align="center">
+  <img src="assets/insample_momentum.png" alt="In-Sample: Momentum" width="650"/><br>
+  <em>Momentum</em>
+</p>
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="assets/outsample_momentum.png" alt="Out-of-Sample: Momentum" width="550"/><br>
-      <em>Momentum</em>
-    </td>
-    <td align="center">
-      <img src="assets/outsample_reversal.png" alt="Out-of-Sample: Short-term Reversal" width="550"/><br>
-      <em>Short-term Reversal</em>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="assets/outsample_shortinterest.png" alt="Out-of-Sample: Short Interest" width="550"/><br>
-      <em>Short Interest</em>
-    </td>
-    <td align="center">
-      <img src="assets/outsample_timeseries.png" alt="Out-of-Sample: ARIMA-GARCH" width="550"/><br>
-      <em>ARIMA-GARCH</em>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/insample_reversal.png" alt="In-Sample: Short-term Reversal" width="650"/><br>
+  <em>Short-term Reversal</em>
+</p>
+
+<p align="center">
+  <img src="assets/insample_shortinterest.png" alt="In-Sample: Short Interest" width="650"/><br>
+  <em>Short Interest</em>
+</p>
+
+<p align="center">
+  <img src="assets/insample_timeseries.png" alt="In-Sample: ARIMA-GARCH" width="650"/><br>
+  <em>ARIMA-GARCH</em>
+</p>
+
+## Out-sample Results
 
 <p align="center">
   <img src="assets/outsample_blacklitterman.png" alt="Out-of-Sample: Black-Litterman model" width="650"/><br>
   <em>Black-Litterman model</em>
+</p>
+
+<p align="center">
+  <img src="assets/outsample_momentum.png" alt="Out-of-Sample: Momentum" width="650"/><br>
+  <em>Momentum</em>
+</p>
+
+<p align="center">
+  <img src="assets/outsample_reversal.png" alt="Out-of-Sample: Short-term Reversal" width="650"/><br>
+  <em>Short-term Reversal</em>
+</p>
+
+<p align="center">
+  <img src="assets/outsample_shortinterest.png" alt="Out-of-Sample: Short Interest" width="650"/><br>
+  <em>Short Interest</em>
+</p>
+
+<p align="center">
+  <img src="assets/outsample_timeseries.png" alt="Out-of-Sample: ARIMA-GARCH" width="650"/><br>
+  <em>ARIMA-GARCH</em>
 </p>
